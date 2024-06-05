@@ -22,7 +22,7 @@
       True
     </td>
     <td>
-      https://arxiv.org/abs/1807.06521
+      https://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf
     </td>
   </tr>
 </table>
